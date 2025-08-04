@@ -1,2 +1,2 @@
-# Configurando-Webpack
-fazendo a configuração do Webpack para utilizar em alguns projetos.
+# gerador-de-senhas
+vou criar um gerador de senha, onde você poderá escolho qual tipo de senha será gerada.

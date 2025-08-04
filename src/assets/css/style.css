@@ -64,3 +64,11 @@ form button {
 form button:hover {
     background: var(--primary-color-darker);
 }
+
+label {
+    display: block;
+}
+
+#quantidade {
+    width: 50px;
+}
